@@ -20,6 +20,7 @@
     <img align="center" alt="djangorest" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg"/> -
     <img align="center" alt="sqlite3" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/> -
     <img align="center" alt="postgresql" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/> -
+    <img align="center" alt="postgresql" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/> -
     <img align="center" alt="html5" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> -
     <img align="center" alt="css3" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> -
     <img align="center" alt="react" height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
