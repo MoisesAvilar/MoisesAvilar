@@ -34,7 +34,7 @@
 
 [![Gerenciamento Financeiro Card](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=gerenciamento-financeiro&theme=tokyonight)](https://github.com/MoisesAvilar/gerenciamento-financeiro)
 
-[![CeicaCake](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=ceicacake&theme=tokyonight)](https://github.com/MoisesAvilar/ceicacake)
+[![CeicaCake](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=ceica_cake&theme=tokyonight)](https://github.com/MoisesAvilar/ceica_cake)
 
 <hr>
 
