@@ -1,12 +1,6 @@
 <hr>
 
-![Moisés Avilar GitHub stats](https://github-readme-stats.vercel.app/api?username=MoisesAvilar&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesAvilar&layout=compact&theme=tokyonight)](https://github.com/MoisesAvilar/)
-
-<hr>
-
-### Hi there! 😎 Me chamo Moisés Avilar
+### Hi there! 😎
 
 ## Sobre Mim
 
