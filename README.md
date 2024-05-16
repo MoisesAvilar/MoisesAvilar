@@ -34,8 +34,8 @@
 
 [![Gerenciamento Financeiro Card](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=gerenciamento-financeiro&theme=tokyonight)](https://github.com/MoisesAvilar/gerenciamento-financeiro)
 
-[![Controle de Vendas Card](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=controle-de-vendas&theme=tokyonight)](https://github.com/MoisesAvilar/controle-de-vendas)
+[![CeicaCake](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=ceicacake&theme=tokyonight)](https://github.com/MoisesAvilar/ceicacake)
 
 <hr>
 
-### Atualmente estudando cursando Análise e Desenvolvimento de Sistemas e React.
+### Atualmente cursando Análise e Desenvolvimento de Sistemas e estudando React nas horas vagas.
