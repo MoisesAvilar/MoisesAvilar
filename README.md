@@ -6,20 +6,20 @@
 
 Olá! 😊 Me chamo Moisés Avilar e sou um entusiasta da tecnologia apaixonado por desenvolvimento de software. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e dedicando meu tempo livre ao estudo de React.
 
+<hr>
+
+### Projetos em andamento
+
+[![Gerenciamento Financeiro Card](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=gerenciamento-financeiro&theme=tokyonight)](https://github.com/MoisesAvilar/gerenciamento-financeiro)
+
+[![CeicaCake](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=ceica_cake&theme=tokyonight)](https://github.com/MoisesAvilar/ceica_cake)
+
+<hr>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moisés-avilar/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/avilarmoises/)
 
 ![Moisés Avilar GitHub stats](https://github-readme-stats.vercel.app/api?username=MoisesAvilar&show_icons=true&theme=tokyonight)
-
-<hr>
-
-## Projetos Destacados
-
-Aqui estão alguns dos meus projetos mais recentes e interessantes:
-
-- [Gerenciamento Financeiro](https://github.com/MoisesAvilar/gerenciamento-financeiro): Uma aplicação web para gerenciamento financeiro pessoal.
-- [CeicaCake](https://github.com/MoisesAvilar/ceica_cake): Um projeto de e-commerce para venda de bolos e doces personalizados.
 
 <hr>
 
@@ -43,10 +43,3 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes:
 <br>
 <hr>
 
-### Projetos em andamento
-
-[![Gerenciamento Financeiro Card](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=gerenciamento-financeiro&theme=tokyonight)](https://github.com/MoisesAvilar/gerenciamento-financeiro)
-
-[![CeicaCake](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=ceica_cake&theme=tokyonight)](https://github.com/MoisesAvilar/ceica_cake)
-
-<hr>
