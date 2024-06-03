@@ -28,6 +28,7 @@ Olá! 😊 Me chamo Moisés Avilar e sou um entusiasta da tecnologia apaixonado 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesAvilar&layout=donut-vertical&theme=tokyonight)](https://github.com/MoisesAvilar/)
 
+</div>
 
 <div style="display: inline-block; border: 1px solid white; border-radius: 5px; background-color: #1A1B27">
     <img align="center" alt="python" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> -
@@ -40,7 +41,6 @@ Olá! 😊 Me chamo Moisés Avilar e sou um entusiasta da tecnologia apaixonado 
     <img align="center" alt="css3" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> -
     <img align="center" alt="react" height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
           
-</div>
 </div>
 <br>
 <hr>
