@@ -8,7 +8,6 @@ Olá! 😊 Me chamo Moisés Avilar e sou um entusiasta da tecnologia apaixonado 
 
 <hr>
 
-<div style="text-align: center;">
 ### Projetos em andamento
 
 [![Gerenciamento Financeiro Card](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=gerenciamento-financeiro&theme=tokyonight)](https://github.com/MoisesAvilar/gerenciamento-financeiro)
@@ -28,7 +27,6 @@ Olá! 😊 Me chamo Moisés Avilar e sou um entusiasta da tecnologia apaixonado 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesAvilar&layout=donut-vertical&theme=tokyonight)](https://github.com/MoisesAvilar/)
 
-</div>
 
 <div style="display: inline-block; border: 1px solid white; border-radius: 5px; background-color: #1A1B27">
     <img align="center" alt="python" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> -
