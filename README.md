@@ -15,6 +15,7 @@ Olá! 😊 Me chamo Moisés Avilar e sou um entusiasta da tecnologia apaixonado 
 ### Projetos em andamento
 <div align="center">
 [![Gerenciamento Financeiro Card](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=gerenciamento-financeiro&theme=tokyonight)](https://github.com/MoisesAvilar/gerenciamento-financeiro)
+
 [![CeicaCake](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=ceica_cake&theme=tokyonight)](https://github.com/MoisesAvilar/ceica_cake)
 </div>
 <hr>
