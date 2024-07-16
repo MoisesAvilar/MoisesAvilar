@@ -8,12 +8,15 @@ Olá! 😊 Me chamo Moisés Avilar e sou um entusiasta da tecnologia apaixonado 
 
 <hr>
 
-### Projetos em andamento
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MoisesAvilar.MoisesAvilar&left_text=Visitantes"  />
+</div>
 
-[![Gerenciamento Financeiro Card](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=gerenciamento-financeiro&theme=tokyonight)](https://github.com/MoisesAvilar/gerenciamento-financeiro)
-
-[![CeicaCake](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=ceica_cake&theme=tokyonight)](https://github.com/MoisesAvilar/ceica_cake)
-
+<div align="center">
+  ### Projetos em andamento
+  [![Gerenciamento Financeiro Card](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=gerenciamento-financeiro&theme=tokyonight)](https://github.com/MoisesAvilar/gerenciamento-financeiro)
+  [![CeicaCake](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=ceica_cake&theme=tokyonight)](https://github.com/MoisesAvilar/ceica_cake)
+</div>
 <hr>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moisés-avilar/)
