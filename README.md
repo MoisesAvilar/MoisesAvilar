@@ -18,12 +18,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MoisesAvilar.MoisesAvilar&left_text=Visitantes"  />
 </div>
 
-### Projetos em andamento
-
-[![Gerenciamento Financeiro](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=gerenciamento-financeiro&theme=tokyonight)](https://github.com/MoisesAvilar/gerenciamento-financeiro)
-[![CeicaCake](https://github-readme-stats.vercel.app/api/pin/?username=MoisesAvilar&repo=ceica_cake&theme=tokyonight)](https://github.com/MoisesAvilar/ceica_cake)
-<hr>
-
 <h3 align="left">🛠 Linguagens e Frameworks</h3>
 
 ###
@@ -68,7 +62,3 @@
 
 <hr>
 </div>
-
-
-
-
