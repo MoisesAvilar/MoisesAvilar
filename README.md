@@ -46,10 +46,6 @@
 
 <hr>
 
-### Tecnologias que utilizo
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesAvilar&layout=donut-vertical&theme=tokyonight)](https://github.com/MoisesAvilar/)
-
 ###
 
 <h3 align="left">🔥 Status:</h3>
